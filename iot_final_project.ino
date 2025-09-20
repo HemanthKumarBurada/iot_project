@@ -3,12 +3,12 @@
 #include <ArduinoJson.h>
 
 //--- Wi-Fi Details ---
-const char* ssid = "They_call_me_OG";
+const char* ssid = "";
 const char* password = ""; // No password
 
 //--- Twitter API v2 Details ---
 // ⚠️ IMPORTANT: Replace with your own valid Bearer Token.
-const char* bearerToken = "AAAAAAAAAAAAAAAAAAAAALp14AEAAAAA6Vao8CRrT5Wl6x7xScBX%2FwkIEg4%3DBb8hL2vSYzpywUEZztkgCulVoubVRPFtaqtBCKxMB2TKFzOpPu";
+const char* bearerToken = "";
 
 // The user ID for the Twitter handle @HBurad8
 const char* twitter_user_id = "1966408269611864064";
