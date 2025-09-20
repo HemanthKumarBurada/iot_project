@@ -10,8 +10,8 @@ const char* password = ""; // No password
 // ⚠️ IMPORTANT: Replace with your own valid Bearer Token.
 const char* bearerToken = "";
 
-// The user ID for the Twitter handle @HBurad8
-const char* twitter_user_id = "1966408269611864064";
+// The user ID for the Twitter account you want to monitor.
+const char* twitter_user_id = "";
 
 //--- Hardware Pin ---
 // The LED will be connected to GPIO 2 (the built-in LED on many boards)
